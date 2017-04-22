@@ -1,0 +1,66 @@
+/*公共样式*/
+body{ margin:0px;padding:0px;text-align:left;background:#ffffff url(../images/body-bg.jpg) no-repeat center top; color:#333; font-size:14px;line-height:200%; font-family:"微软雅黑","宋体",Arial, Helvetica, sans-serif;}
+form,ul,li,p,img,dl,dt,input{margin:0px;padding:0px;}
+ul,li{list-style:none;}
+h1, h2, h3, h4, h5, h6{ margin:0px; padding:0px; font-size:14px;}
+img { border:0; vertical-align:middle;}
+p{ text-indent:2em;}
+
+a:link,a:visited{ color:#333333; text-decoration:none;}
+a:hover{ color:#dd4929; text-decoration:none;}
+
+a.grey:link,a.grey:visited{ color:#b3b3b3; text-decoration:none;}
+a.grey:hover{ color:#dd4929; text-decoration:none;}
+
+.box{ width:1200px; margin:0 auto; overflow:hidden;}
+
+.red{ color:#da372a;}
+.red01{ color:#ee0101;}
+.grey{ color:#b3b3b3;}
+.black{ color:#999999;}
+.blue{ color:#3298cb;}
+.blue01{ color:#5cb3e8;}
+.green{ color:#008000;}
+.darkred{ color:#a23536;}
+.orange{ color:#f67e4f;}
+.left{ float:left;}
+.right{ float:right;}
+.bold{ font-weight:bold;}
+iframe{ border:0;}
+.mtop10{ margin-top:10px;}
+.mtop20{ margin-top:20px;}
+.mtop40{ margin-top:40px;}
+.pbom50{ padding-bottom:50px;}
+.marb15{ margin-bottom:15px;}
+.t_left{ text-align:left;}
+.t_center{ text-align:center;}
+.t_right{ text-align:right;}
+.mtop3{ margin-top:-3px; _margin-top:-1px;}
+.mtop5{ margin-top:-5px; _margin-top:0;}
+.mtop0{ margin-top:0;}
+.clear{ clear:both;}
+.f16{ font-size:16px;}
+.f14{ font-size:14px;}
+.f12{ font:normal 12px sans-serif;}
+.dsn{ display:none;}
+.fn{ font-weight:normal;}
+.mba{ margin:0 auto;}
+
+.text-box{ width:900px; margin:10px auto; font-size:18px; overflow:hidden;}
+.text-box .text{ margin:30px 0 0 110px;}
+.text-box .text h3{ font-size:20px; font-weight:bold; margin-bottom:10px;}
+.t01{ font-size:24px; padding-top:270px;}
+
+.main-box{ width:1200px; margin:50px auto 0; overflow:hidden; background:#fff; border:3px solid #ff2a76; padding:20px;}
+.main-box h3{ margin:5px 0 30px; text-align:center; color:#c01e54; font:bold 36px/36px "微软雅黑";}
+table.calculator{ background:#E0E0E0;}
+table.calculator tr td{ background:#fff; text-align:left; padding:0 5px; line-height:36px;}
+.num{ font:normal 16px/16px Arial; color:#cb1d36;}
+.num-bf-07{ font:bold 20px/30px Arial;}
+
+.main-box input.txt{ width:100px; height:30px; font:bold 20px/30px Arial;}
+.main-box input.cbox{ vertical-align:middle;}
+
+.padb{ padding-bottom:50px;}
+
+
